@@ -1,0 +1,7 @@
+{
+  "name": "se-expense-assistant",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
